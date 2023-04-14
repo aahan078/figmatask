@@ -83,3 +83,28 @@ margin-top: 20px;
     text-align: center;
     color: #868686;
 }
+
+
+@media only screen and (max-width:767px){
+    p{
+      font-size: 14px;
+    }
+  
+    #p-txt{
+        font-size: 15px;
+    }
+  
+    .h4-txt{
+        font-size: 25px;
+    }
+  
+    .h4-txt--2{
+      font-size: 30px;
+      line-height: 45px;
+    }
+  
+    #p-txt--1{
+        font-size: 14px;
+    }
+  
+  }

@@ -24,3 +24,17 @@ color: rgba(109, 172, 234, 1);
 height: 54px;
 color: #FFFFFF;
 }
+
+
+.img-box--2{
+    border: 2px dashed rgb(205,204,204);
+    box-sizing: border-box;
+
+}
+
+.img-box--2 img{
+ width: 100%;
+    /* height: 250px; */
+    border: transparent;
+    background-color: rgb(234,231,231);
+}
