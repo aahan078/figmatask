@@ -1,0 +1,85 @@
+.cover-img{
+    width: 100%;
+}
+
+.box--1{
+    border: 1px solid white;
+    /* height: auto; */
+    background: rgba(255, 255, 255, 1);
+    width: 100%;
+    box-sizing: border-box;
+     overflow: hidden;
+
+
+}
+
+.h4-txt{
+  
+   /* display: flex; */
+   /* font-family: Inter; */
+   display: flex;
+margin: auto;
+width: 80%;
+   /* left: 104px; */
+   font-size: 40px;
+   font-weight: 400;
+   line-height: 48px;
+   letter-spacing: 0em;
+   /* text-align: center; */
+   color: rgba(142, 164, 188, 1);
+
+   
+ 
+}
+
+.h4-txt+p{
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    /* height: 140px; */
+    /* left: 104px; */
+    top: 700px;
+    font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+text-align:justify;
+
+
+}
+
+.box--2{
+    border: 0px solid green;
+    /* height: 300px; */
+    background-color: #EDF6FA;
+    
+}
+
+.subbox--1{
+    border: 0px solid green;
+    /* height: 300px; */
+    background-color: white;
+}
+
+.dashed-box{
+    border: 1px dashed #80ABBE;
+   padding: 5px;
+    /* height: 280px; */
+    margin: auto;
+}
+
+.dashed-box img{
+display: flex;
+margin: auto;
+margin-top: 20px;
+}
+
+.dashed-box h4{
+    margin-top: 20px;
+    text-align: center;
+    color: #8EA4BC;
+}
+.dashed-box p{
+    text-align: center;
+    color: #868686;
+}

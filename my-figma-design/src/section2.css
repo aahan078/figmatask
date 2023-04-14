@@ -1,0 +1,26 @@
+.content{
+    border: none;
+
+}
+
+details > summary{
+    
+    display: block;
+color: rgba(109, 172, 234, 1);
+
+}
+
+.btn--1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #F18889;
+    border: 1px dashed #FFFFFF;
+    outline: 3px solid #F18889;
+    border-radius: 29px;
+    width: 150px;
+height: 54px;
+color: #FFFFFF;
+}
