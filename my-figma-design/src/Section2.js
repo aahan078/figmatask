@@ -47,64 +47,64 @@ We wish you a fantastic journey in life.</p>
 
 </div>
 
-<div className="container">
+<div className="container img-box--1">
   <div className="row">
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
       <div className='img-box--2'>
         <img src={animal} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal2} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal3} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal4} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal5} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal6} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal7} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal8} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal9} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2 ">
     <div className='img-box--2'>
         <img src={animal10} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12  gy-2 ">
     <div className='img-box--2'>
         <img src={animal11} alt='animals'></img>
       </div>
     </div>
-    <div className="col-lg-3 col-md-6 col-sm-12">
+    <div className="col-lg-3 col-md-6 col-sm-12 gy-2">
     <div className='img-box--2'>
         <img src={animal12} alt='animals'></img>
       </div>

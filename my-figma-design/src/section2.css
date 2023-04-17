@@ -38,3 +38,13 @@ color: #FFFFFF;
     border: transparent;
     background-color: rgb(234,231,231);
 }
+
+.img-box--1{
+    background-color: white;
+}
+
+#p-txt--1{
+    text-align: justify;
+    color:  rgba(134, 134, 134, 1);
+    padding: 10px;
+}

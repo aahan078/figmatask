@@ -1,0 +1,29 @@
+.foot-box{
+    background-color:rgba(235, 229, 217, 1);
+    
+}
+
+.footer-h-txt{
+    color: rgba(134, 134, 134, 1);
+    
+}
+
+
+.foot-txt ul{
+    
+text-decoration: none;
+list-style: none;
+}
+.foot-txt h4{
+    text-align: center;
+}
+.foot-txt li{
+    /* text-align: justify; */
+    color:rgba(134, 134, 134, 1);
+    
+    /* text-align: justify; */
+}
+
+.foot-boxes{
+    border-right: 2px solid white;
+}

@@ -1,0 +1,30 @@
+.childbox--1{
+    background: rgba(255, 245, 245, 1);
+    
+}
+
+.childbox--1 h4{
+    color: rgba(237, 170, 205, 1);
+    font-weight: 400;
+    font-size: 24px;
+    width: 45%;
+    line-height: 50px;
+}
+
+.sub-h4{
+    color: rgba(109, 172, 234, 1);
+}
+
+@media only screen and (max-width:767px){
+    .childbox--1{
+        flex-direction: column;
+        /* -ms-flex-item-align: center; */
+    }
+
+    .childbox--1 h4{
+        width: 100%;
+        font-size: 22px;
+    }
+
+   
+}

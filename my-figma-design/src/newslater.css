@@ -1,0 +1,58 @@
+.newslater-box--1{
+    background-color: white;
+}
+
+.news-inputs input{
+    margin: 10px 20px;
+    padding:5px 10px;
+   
+    border: 1px dashed rgba(183, 181, 181, 1);
+
+}
+
+
+.btn--2{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin: auto; */
+    /* margin-top: 50px; */
+    background-color: #F18889;
+    border: 1px dashed #FFFFFF;
+    outline: 3px solid #F18889;
+    border-radius: 29px;
+    width: 150px;
+height: 38px;
+color: #FFFFFF;
+}
+
+.news--txt h4{
+    color: rgba(142, 164, 188, 1);
+
+}
+
+.news--txt p{
+    color:  rgba(134, 134, 134, 1);
+    
+}
+.news-checkbox{
+    display:flex ;
+    justify-content: space-around;
+   
+}
+.news-checkbox p{
+    color:rgba(134, 134, 134, 1);
+    ;
+    width: 80%;
+}
+
+@media only screen and (max-width:767px){
+.btn--2{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+
+}
+}
