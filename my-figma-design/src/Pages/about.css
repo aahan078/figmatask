@@ -1,0 +1,44 @@
+
+
+.about-cover-img img{
+    width: 100%;
+}
+
+.about-h4-txt{
+    font-weight: 400;
+    color: rgba(142, 164, 188, 1);
+    font-size: 40px
+}
+
+.about-p-txt p{
+    color: rgba(134, 134, 134, 1);
+    text-align: justify;
+    font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+}
+
+.with-love-txt{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.white-ele{
+    background-color: rgba(237, 246, 250, 1);
+    
+}
+
+.ele-h4{
+    color:  rgba(142, 164, 188, 1);
+    
+}
+
+.ele-p-txt{
+    margin-top: 20px;
+    color: #868686;
+    text-align: justify;
+    font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+}
+

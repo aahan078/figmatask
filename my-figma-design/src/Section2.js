@@ -22,7 +22,9 @@ export default function Section2() {
                 
                 <h4 className='h4-txt h4-txt--2 mt-2'>“Signs of the Zodiac” Collection</h4>
                 <p id='p-txt--1' >“Signs of the Zodiac” Collection” is a story about 12 amazing characters - each with their own strong personality.
-                Our inspiration to this series of baby teethers comes from the Western astrology, and the zodiac signs are named after the constellations of ancient Greece.<details><summary>Show more</summary>
+                Our inspiration to this series of baby teethers comes from the Western astrology, and the zodiac signs are named after the constellations of ancient Greece.
+                
+                {/* <details><summary>Show more</summary>
                 <p>
 
 The collection is proudly produced from own illustrations, and the material is 100% natural rubber and
@@ -36,7 +38,7 @@ On the inside of each box, you will find a heartwarming poem - uniquely written 
 in the family.
 
 We wish you a fantastic journey in life.</p>
-                </details>
+                </details> */}
  
 
 </p>

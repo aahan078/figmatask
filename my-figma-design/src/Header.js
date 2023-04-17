@@ -13,22 +13,22 @@ export default function Header() {
     <div>
     <Navbar collapseOnSelect expand="lg" className='color-nav' variant="light">
       <Container>
-        <Navbar.Brand href="#home"><img src={Logo} alt='logo'></img></Navbar.Brand>
+        <Navbar.Brand href="/"><img src={Logo} alt='logo'></img></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#features" className='chabil'>ABOUT CHABIL</Nav.Link>
-            <Nav.Link href="#pricing" className='shop'>SHOP</Nav.Link>
-            <Nav.Link href="#pricing" className='contact'>CONTACT</Nav.Link>
-            <Nav.Link href="#pricing" className='retailers'>RETAILERS</Nav.Link>
+            <Nav.Link href="about" className='chabil'>ABOUT CHABIL</Nav.Link>
+            <Nav.Link href="#shop" className='shop'>SHOP</Nav.Link>
+            <Nav.Link href="#contact" className='contact'>CONTACT</Nav.Link>
+            <Nav.Link href="#retailers" className='retailers'>RETAILERS</Nav.Link>
           
           </Nav>
           <Nav className='nav--2'>
-            <Nav.Link href="#deets" className='mt-1 login--1'>LOGIN</Nav.Link>
+            <Nav.Link href="#login" className='mt-1 login--1'>LOGIN</Nav.Link>
             <Nav.Link eventKey={2} href="#memes" className='nz-img mt-1'>
               <img src={flag} alt='nz'></img>
             </Nav.Link>
-            <Nav.Link href="#deets" className='mt-1'>
+            <Nav.Link href="#cart" className='mt-1'>
               <img src={cart} alt='cart'></img>
             </Nav.Link>
           </Nav>
