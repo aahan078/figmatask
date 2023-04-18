@@ -19,7 +19,7 @@ export default function Header() {
           <Nav className="me-auto">
             <Nav.Link href="about" className='chabil'>ABOUT CHABIL</Nav.Link>
             <Nav.Link href="#shop" className='shop'>SHOP</Nav.Link>
-            <Nav.Link href="#contact" className='contact'>CONTACT</Nav.Link>
+            <Nav.Link href="contact" className='contact'>CONTACT</Nav.Link>
             <Nav.Link href="#retailers" className='retailers'>RETAILERS</Nav.Link>
           
           </Nav>

@@ -7,6 +7,7 @@ import Childsection from "./Childsection";
 import Aboutchabil from "./Pages/Aboutchabil";
 import Test from "./Pages/Test";
 import Main from "./Main";
+import Contact from "./Pages/Contact";
 
 export default function App() {
   return (
@@ -20,9 +21,10 @@ export default function App() {
       <Route exact path="/" element={<Main/>}></Route>
           <Route exact path="/test" element={<Test/>}></Route>
           <Route exact path="/about" element={<Aboutchabil/>}></Route>
+          <Route exact path="/contact" element={<Contact/>}></Route>
         </Routes>
       </Router>
-      <Childsection />
+      <Childsection/>
       <Footer />
     </>
   );
