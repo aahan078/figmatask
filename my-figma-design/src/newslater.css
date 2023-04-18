@@ -1,9 +1,15 @@
 .newslater-box--1{
     background-color: white;
-}
 
+}
+.news-inputs{
+    border: 0px solid green;
+    max-width: 93%;
+    margin: auto;
+    margin-top: 10px;
+}
 .news-inputs input{
-    margin: 10px 20px;
+    margin: 10px 10px;
     padding:5px 10px;
    
     border: 1px dashed rgba(183, 181, 181, 1);
@@ -25,7 +31,11 @@ background-color: #F7F7F7;
 height: 38px;
 color: #FFFFFF;
 }
-
+.news--txt{
+    border: 0px solid red;
+    width: 90%;
+    margin: auto;
+}
 .news--txt h4{
     color: rgba(142, 164, 188, 1);
 
@@ -38,7 +48,9 @@ color: #FFFFFF;
 .news-checkbox{
     display:flex ;
     justify-content: space-around;
-   
+   border: 0px solid yellow;
+   margin-top: 10px;
+   width: 100%;
 }
 .news-checkbox p{
     color:rgba(134, 134, 134, 1);
@@ -55,4 +67,17 @@ color: #FFFFFF;
     margin-top: 10px;
 
 }
+.news--txt{
+    width: 100%;
+    
+}
+
+
+
+.news-inputs >input{
+    width: 100%;
+    margin-left: -13px;
+    
+}
+
 }

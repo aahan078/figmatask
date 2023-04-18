@@ -2,12 +2,15 @@
 
 .about-cover-img img{
     width: 100%;
+    background-image: url(../images/about.png);
+    background-size: cover;
 }
 
 .about-h4-txt{
     font-weight: 400;
     color: rgba(142, 164, 188, 1);
-    font-size: 40px
+    font-size: 40px;
+
 }
 
 .about-p-txt p{
@@ -30,7 +33,7 @@ line-height: 35px;
 
 .ele-h4{
     color:  rgba(142, 164, 188, 1);
-    
+    font-size: 35px;
 }
 
 .ele-p-txt{
@@ -42,3 +45,73 @@ font-size: 24px;
 line-height: 35px;
 }
 
+.about-txt-area{
+   
+    background-color: white;
+}
+
+.bg-img-area--1{
+    background-image: url(../images/about-bg.png);
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  z-index: 10;
+
+  
+}
+
+.bg-txt--1{
+    border: 0px solid red;
+    position: relative;
+    top: 150px;
+    font-style: normal;
+   width: 50%;
+   box-sizing: border-box;
+  
+    margin:0px auto;
+    /* margin-top: 50px; */
+font-weight: 400;
+font-size: 72px;
+line-height: 87px;
+
+color: #FFFFFF;
+}
+.bg-txt--1 h4{
+    font-size: 38px;
+max-width: 426px; 
+}
+
+@media only screen and (max-width:767px){
+
+    .about-p-txt p{
+        font-size: 15px;
+        
+    }
+.ele-p-txt{
+    font-size: 15px;
+}
+}
+
+.white-ele img{
+    width: 100%;
+}
+
+.abt-toy img{
+    border: 1px dashed rgba(128, 171, 190, 1);
+width:100%;
+height: auto;
+background-color: white;
+outline: 4px solid white ;
+}
+.abt-txt-area--2{
+    color: rgba(134, 134, 134, 1);
+    font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+
+    
+}
+
+.toy-area{
+    background-color: #F5F8E9;
+}

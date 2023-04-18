@@ -1,5 +1,10 @@
-.cover-img{
+#cover-img{
+    /* position: relative; */
     width: 100%;
+    z-index: 18;
+   
+    background-image: url(../src/images/Cover\ Photo.png);
+    
 }
 
 .box--1{

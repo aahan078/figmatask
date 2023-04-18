@@ -18,7 +18,7 @@ export default function Section2() {
   return (
     <div>
         <div className='container'>
- <div className='container box--1 p-5'>
+ <div className='container box--1 p-2'>
                 
                 <h4 className='h4-txt h4-txt--2 mt-2'>“Signs of the Zodiac” Collection</h4>
                 <p id='p-txt--1' >“Signs of the Zodiac” Collection” is a story about 12 amazing characters - each with their own strong personality.

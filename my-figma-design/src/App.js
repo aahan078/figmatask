@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./Header";
 
 import Footer from "./Footer";
+import Childsection from "./Childsection";
 import Aboutchabil from "./Pages/Aboutchabil";
 import Test from "./Pages/Test";
 import Main from "./Main";
@@ -21,6 +22,7 @@ export default function App() {
           <Route exact path="/about" element={<Aboutchabil/>}></Route>
         </Routes>
       </Router>
+      <Childsection />
       <Footer />
     </>
   );
