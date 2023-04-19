@@ -23,8 +23,8 @@ export default function App() {
           <Route exact path="/contact" element={<Contact />}></Route>
         </Routes>
       </Router>
-      <Childsection/>
-      <Newslatter/>
+      {/* <Childsection/> */}
+      {/* <Newslatter/> */}
       <Footer/>
     </>
   );

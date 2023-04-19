@@ -1,11 +1,14 @@
 import React from "react";
 import "../Pages/contact.css";
+import Newslatter from "../Newslatter";
+import Childsection from "../Childsection";
 
 export default function Contact() {
   return (
     <div>
       <div className="container">
         <div className="container main-page-contact p-5">
+         
           <h4>Do you want to get in touch with us?</h4>
 
           <p className="mt-5 main-page-p">
@@ -66,9 +69,11 @@ export default function Contact() {
               </div>
             </div>
           </div>
-          
+         
         </div>
       </div>
+      <Childsection/>
+          <Newslatter/>
     </div>
   );
 }

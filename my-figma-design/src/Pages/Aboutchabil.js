@@ -3,6 +3,7 @@ import cover from "../images/about.png";
 import white from "../images/white.png";
 import "../Pages/about.css";
 import toy from '../images/Tvilling.png'
+import Childsection from "../Childsection";
 
 export default function Aboutchabil() {
   return (
@@ -107,8 +108,10 @@ export default function Aboutchabil() {
           <div className="col-lg-6  col-sm-12 abt-toy">
           <img src={toy} alt="toy"></img>
           </div>
-        </div></div>
-       
+        </div>
+        </div>
+
+        <Childsection/>
       
     </div>
   )
