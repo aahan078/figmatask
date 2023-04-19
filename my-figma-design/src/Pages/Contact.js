@@ -24,8 +24,9 @@ export default function Contact() {
                 <input type="number" placeholder="Phone"></input>
                 <textarea placeholder="Message"></textarea>
               </div>
-              <div className="main-contact-btn"><button className="contact-btn">Send</button></div>
-              
+              <div className="main-contact-btn">
+                <button className="contact-btn">Send</button>
+              </div>
             </div>
             <div className="col-lg-6">
               <div className="contact-txt">
@@ -49,22 +50,23 @@ export default function Contact() {
               <div className="contact-txt--2">
                 <h4>Brand Ambassador Program</h4>
                 <p>
-                Are you a Blogger or Social Platform Influencer? Do you love stylish design when it’s at its best? 
+                  Are you a Blogger or Social Platform Influencer? Do you love
+                  stylish design when it’s at its best?
                 </p>
 
                 <p>
-                We are always looking for new business partners if the values ​​are common and match each other{" "}
+                  We are always looking for new business partners if the values
+                  ​​are common and match each other{" "}
                 </p>
 
                 <p>
-                If you want to display and promote our products, please send your e-mail to  <span>blogger@chabil.co.nz</span>
+                  If you want to display and promote our products, please send
+                  your e-mail to <span>blogger@chabil.co.nz</span>
                 </p>
               </div>
             </div>
-            
-             
-            
           </div>
+          
         </div>
       </div>
     </div>

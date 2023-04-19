@@ -46,3 +46,22 @@
 .retailers{
     color: rgba(192, 157, 110, 1);
 }
+
+@media only screen and (max-width:767px){
+    .chabil{
+        border: none;
+    }
+    .shop{
+        border: none;
+    }
+    .contact{
+        border: none;
+    }
+
+    .login--1{
+        border: none;
+    }
+    .nz-img{
+        border: none;
+    }
+}

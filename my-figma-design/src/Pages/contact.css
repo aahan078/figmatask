@@ -98,7 +98,8 @@ color: #868686;
 background: #F7F7F7;
 border-radius: 5px;
 height: 54px;
-border: 1px dashed #B7B5B5
+border: 1px dashed #B7B5B5;
+padding: 14px;
 }
 
 .contact-inputs textarea{
@@ -106,4 +107,16 @@ border: 1px dashed #B7B5B5
     border-radius: 5px;
     height: 226px;
     background: #F7F7F7;
+    padding: 14px;
+}
+
+@media only screen and (max-width:767px){
+    .contact-btn{
+        margin-bottom: 50px;
+       
+    }
+    .main-contact-btn{
+        display: flex;
+    justify-content: center;
+    }
 }
